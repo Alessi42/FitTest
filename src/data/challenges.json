@@ -1,0 +1,170 @@
+{
+  "difficulty": [
+    [
+      {
+        "id": 1,
+        "difficulty": 1,
+        "level": 1,
+        "name": "Challenge I",
+        "thumbnail": "http://img.youtube.com/vi/q20pLhdoEoY/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo1.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 20
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 20
+          }
+        ],
+      },
+      {
+        "id": 2,
+        "difficulty": 1,
+        "level": 2,
+        "name": "Challenge II",
+        "thumbnail": "http://img.youtube.com/vi/TkaYafQ-XC4/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo2.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 10
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 10
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 10
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 10
+          }
+        ],
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "difficulty": 2,
+        "level": 1,
+        "name": "Difficulty 2",
+        "thumbnail": "http://img.youtube.com/vi/q20pLhdoEoY/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo1.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 20
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 20
+          }
+        ],
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "difficulty": 3,
+        "level": 1,
+        "name": "Difficulty III",
+        "thumbnail": "http://img.youtube.com/vi/q20pLhdoEoY/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo1.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 20
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 20
+          }
+        ],
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "difficulty": 4,
+        "level": 1,
+        "name": "Difficulty IV",
+        "thumbnail": "http://img.youtube.com/vi/q20pLhdoEoY/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo1.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 20
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 20
+          }
+        ],
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "difficulty": 5,
+        "level": 1,
+        "name": "Challenge V",
+        "thumbnail": "http://img.youtube.com/vi/q20pLhdoEoY/0.jpg",
+        "videoUrl": "http://joeswebserver.uk.to/wo1.mp4",
+        "exercises": [
+          {
+            "name": "Tuck Jumps",
+            "amount": 20
+          },
+          {
+            "name": "X-Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Power Jumps",
+            "amount": 20
+          },
+          {
+            "name": "Diamond Jumps",
+            "amount": 20
+          }
+        ],
+      }
+    ]
+  ]
+}

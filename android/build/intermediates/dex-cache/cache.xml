@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b189fb74476a368e0b2d6c100e6136f204f6e809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_8b0e0d85277415e9d9c72230038a2e69fd81d9b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_5a112c2861638117a2670a0568835ebdb02a8050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_a689e344f79cdf2bf34ea31693003936c8fea753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.yqritc\android-scalablevideoview\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4394e0421a1e2c0cb691a783a393c192a84697ab">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.yqritc-android-scalablevideoview-1.0.4_e231fc6941cd7880c8c6cc36c3838d451491d9d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-orientation\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7bc2156848df4cf531e2f2f8496391a96eb7e623">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-orientation-unspecified_b63a947eb7d2da080eda7354fb5fb9f9a5d2f42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_741f2bde721f961b14672257523afcc138f60815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1b403bad9498977401f4da02c717b116b8bb1738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_947827e9dc95728fb2371803bae1b940294401a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_dc5d9a9d6bc30f5dd2600bde2d796f43c4b78b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_6a4aa4f48c65c41d0704f285a0fbe133f80e9ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_d99f76c2bdcf78f5fb84d265a58260a5c7525ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_8e62604ddd611d929bdc97d936ca191070e3cf61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_632260f37559c5115480a0a48f5223579481ccef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\realm\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b8e50433235a4a9bdce991ebe4a2f5faff407bb6">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-realm-unspecified_c26a75203a76bef1f694e868fc0b539f11772ccc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_bba98dccf92c8c7a890ec31f7f441a491105ae72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-video\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="33b9ae6aa89cca3401f4947d2b87f5bf9f3c465c">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-video-unspecified_fee7f97fca89837eba1f95afd93ce08be191114b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\org.nanohttpd\nanohttpd\2.2.0\73a02117620b6cc7683a1ed6ae24c2f36e2a715\nanohttpd-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\nanohttpd-2.2.0_290459e1d4cf42da029c569f67a652a5f5edc074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4e78a0695fcec246c4420a3ae39e99526a4c4ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-wheel-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b682eb4ce2c84c1b56b7b9a4d95423eee6b8a69e">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-wheel-picker-unspecified_1893f8b51fb67005b347644916868ee8ba493e1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\cn.aigestudio.wheelpicker\WheelPicker\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bb3505675ad34af8ab25f32cb124687b700b6fc7">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\cn.aigestudio.wheelpicker-WheelPicker-1.0.3_28483323c8d3005c79ea748cd55309d0572390f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_a16cc1cc347d3001ca286298928fec7aeaa37de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.4_8ad7abe4aaf7438aea75eb2520ceb503c08a4584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_d99877c6c6e99c8e90ca11912d08de068151ef66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_c0328b362157df7802c490c8bc113ade495efa18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_1b97a5c08628d40e4dc1ad67e54ef7eacab16724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Home\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_b7ac0c872e51bd0c86ebba4f707be389f4b0ae99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a74430f8e7eaa5c2d69a8816f7abb5f92dc25d63.jar" />
+    </item>
+
+</items>

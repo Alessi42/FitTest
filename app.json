@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0"
+  },
+  "loading": {
+    "backgroundColor": "#000000"
+  },
+  "name": "Fit.Test",
+  "displayName": "Fit.Test"
+}
