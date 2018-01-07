@@ -1,4 +1,4 @@
-#Tue Aug 22 16:26:46 BST 2017
+#Sun Jan 07 18:15:18 GMT 2018
 base.0=D\:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

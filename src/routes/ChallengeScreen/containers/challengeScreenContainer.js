@@ -123,8 +123,14 @@ class ChallengeScreen extends Component {
   }
   render() {
     const exercises = () => {
-      return this.props.challenge.exercises.map((exercise, index) => {
-        return <Text style={styles.exerciseText} key={index}>{exercise.amount} {exercise.name}</Text>
+      return this.props.challenge.sets.map((set, index) => {
+        var sets =  set.exercises.map((exercise, index) => {
+          return <Text style={styles.exerciseText} key={index}> {exercise.amount} {exercise.name}</Text>
+        });
+        return set.repeat > 1 ? <View style={styles.setView} key={index}>
+          <Text style={styles.setText}> x{set.repeat}</Text>
+          {sets}
+        </View> : sets;
       });
     }
     return (
@@ -151,9 +157,7 @@ class ChallengeScreen extends Component {
               : "00:00"}</Text>
         </View>
         <TouchableOpacity onPress={this.handleStartPress}>
-          <Text style={styles.text}>{!this.state.running
-              ? "Start"
-              : "Stop"}</Text>
+          <Image style={styles.controls} source={!this.state.running? require('../../../components/Icons/Stop.png') : require('../../../components/Icons/Start.png')}/>
         </TouchableOpacity>
       </View>
     )
@@ -201,6 +205,15 @@ const styles = StyleSheet.create({
     paddingLeft: 24,
     paddingRight: 24
   },
+  setView: {
+    borderWidth: 0,
+    borderBottomWidth: 1,
+    borderColor: 'rgb(255, 0, 0)',
+  },
+  setText: {
+    fontSize: 16,
+    color: '#fff',
+  },
   exerciseText: {
     fontSize: 16,
     color: '#fff',
@@ -209,6 +222,11 @@ const styles = StyleSheet.create({
   graph: {
     height: 40,
     width: 40,
+    tintColor: '#fff'
+  },
+  controls: {
+    height: 56,
+    width: 56,
     tintColor: '#fff'
   }
 })

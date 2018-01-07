@@ -3,6 +3,8 @@ package com.fittest;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.beefe.picker.PickerViewPackage;
+import com.ocetnik.timer.BackgroundTimerPackage;
 import com.zyu.ReactNativeWheelPickerPackage;
 import com.github.yamill.orientation.OrientationPackage;
 import com.brentvatne.react.ReactVideoPackage;
@@ -27,6 +29,8 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+            new PickerViewPackage(),
+            new BackgroundTimerPackage(),
             new ReactNativeWheelPickerPackage(),
             new OrientationPackage(),
             new ReactVideoPackage(),

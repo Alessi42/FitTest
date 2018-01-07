@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3192c001953c6db29be2477252c67d1dc1cd67ee">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-picker-unspecified_0bae86d482f16bfcb381bf2f02ba6232e428e30b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -147,6 +156,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-background-timer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="832fc04398f09286d944049027fbcc02597b362a">
+        <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-background-timer-unspecified_868d2bdd4f6764b4382d8d7e3a4807193851aa77.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-video\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -178,7 +196,7 @@
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="b682eb4ce2c84c1b56b7b9a4d95423eee6b8a69e">
+        sha1="41a1baa329b59a50ce4d0bc645445f998882cbf2">
         <dex dex="D:\Documents\Projects\FitTest\android\app\build\intermediates\pre-dexed\debug\FitTest-react-native-wheel-picker-unspecified_1893f8b51fb67005b347644916868ee8ba493e1d.jar" />
     </item>
     <item

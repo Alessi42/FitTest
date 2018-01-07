@@ -17,7 +17,7 @@ import CompletedChallenges from '../../../components/CompletedChallenges'
 import store from '../../../store'
 import {getCompletedChallenges} from '../../../reducers'
 
-//import challengesData from '../../../data/challenges.json'
+import challengesData from '../../../data/challenges.json'
 
 const window = Dimensions.get('window');
 
@@ -47,6 +47,7 @@ class Challenges extends Component {
   }
 
   createChallengeList(challengesData) {
+    console.log(challengesData);
     const completedChallenges = store.getCompletedChallenges()
     var challengesLists = []
     for (let i = 0; i < challengesData.difficulty.length; i++) {
@@ -70,14 +71,17 @@ class Challenges extends Component {
     .then((response) => {
       var contentType = response.headers.get("content-type");
       if (contentType && contentType.includes("application/json")) {
+        // do some checks here and cache it.
         return response.json();
       }
-      throw new TypeError("Oops, we haven't got JSON!");
+      //console.log("Oops, we haven't got JSON! Defaulting to data");
+      this.createChallengeList(challengesData);
     })
     .then((json) => {
       this.createChallengeList(json)
     })
-    .catch(err => console.error("error: " + err));
+    .catch(err => console.error("error: " + err)
+    );
   }
 
   handleTabPress(difficulty) {

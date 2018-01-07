@@ -26,6 +26,8 @@ MERGED from [com.facebook.react:react-native:0.46.4] D:\Documents\Projects\FitTe
 		ADDED from D:\Documents\Projects\FitTest\android\app\src\main\AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from D:\Documents\Projects\FitTest\android\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [FitTest:react-native-picker:unspecified] D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-picker\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [FitTest:react-native-background-timer:unspecified] D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-background-timer\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [FitTest:react-native-wheel-picker:unspecified] D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-wheel-picker\unspecified\AndroidManifest.xml:7:5-9:41
 MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\cn.aigestudio.wheelpicker\WheelPicker\1.0.3\AndroidManifest.xml:8:5-10:41
 MERGED from [FitTest:react-native-orientation:unspecified] D:\Documents\Projects\FitTest\android\app\build\intermediates\exploded-aar\FitTest\react-native-orientation\unspecified\AndroidManifest.xml:7:5-9:41

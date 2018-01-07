@@ -18,7 +18,7 @@ const propTypes = {
 const TabIcon = (props) => (
   <View style={styles.tab}>
     {props.iconName? <Image style={[styles.icon, {tintColor: props.selected ? '#ecdca9':'#a1a0a1'}]} resizeMode={Image.resizeMode.resize} source={icons[props.iconName]}/> : null}
-    <Text style={{ color: props.selected ? '#ecdca9' : '#a1a0a1' }}>
+    <Text style={{ fontSize: 12, color: props.selected ? '#ecdca9' : '#a1a0a1' }}>
       {props.title}
     </Text>
   </View>

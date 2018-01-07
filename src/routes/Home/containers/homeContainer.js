@@ -25,37 +25,43 @@ class Home extends Component {
           title: 'Warm-ups',
           completed: 0.2,
           component: 'WarmUps',
-          icon: require('../../../components/Icons/WarmUps.png')
+          icon: require('../../../components/Icons/WarmUps.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }, {
           key: 2,
           title: 'Cardio',
           completed: 0.2,
           component: 'Cardio',
-          icon: require('../../../components/Icons/Heart.png')
+          icon: require('../../../components/Icons/Heart.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }, {
           key: 3,
           title: 'Legs',
           completed: 0.2,
           component: 'Legs',
-          icon: require('../../../components/Icons/Legs.png')
+          icon: require('../../../components/Icons/Legs.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }, {
           key: 4,
           title: 'Arms',
           completed: 0.6,
           component: 'Arms',
-          icon: require('../../../components/Icons/Arms.png')
+          icon: require('../../../components/Icons/Arms.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }, {
           key: 5,
           title: 'Core',
           completed: 0.4,
           component: 'Core',
-          icon: require('../../../components/Icons/Core.png')
+          icon: require('../../../components/Icons/Core.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }, {
           key: 6,
           title: 'Cool downs',
           completed: 0.7,
           component: 'CoolDowns',
-          icon: require('../../../components/Icons/CoolDowns.png')
+          icon: require('../../../components/Icons/CoolDowns.png'),
+          background: require('../../../components/Icons/ArmsBackground.jpg')
         }
       ]
     }
@@ -66,6 +72,8 @@ class Home extends Component {
     } else {
       Actions.progress();
     }
+  }
+  componentWillMount() {
   }
   // <Image source={require('../assets/background.png')} style={styles.backgroundImage}>
   // contentContainerStyle={styles.container}
@@ -80,10 +88,9 @@ class Home extends Component {
         <View style={styles.logoContainer}>
           <Image style={styles.logo} source={require('../assets/TextLogo.png')} />
         </View>
-        <View style={styles.recentWorkouts}>
-
+        <View style={styles.categoryContainer}>
+          {createCategories()}
         </View>
-        {createCategories()}
       </ScrollView>
     )
   }
@@ -93,6 +100,14 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     paddingBottom: 56,
+  },
+  categoryContainer: {
+    flex: 1,
+    alignSelf: 'flex-end',
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    alignItems: 'center',
   },
   title: {
     fontSize: 20,
@@ -108,11 +123,11 @@ const styles = StyleSheet.create({
   },
   logoContainer: {
     alignItems: 'center',
-    padding: 16
+    padding: 4
   },
   logo: {
-    height: 72,
-    width: 180,
+    height: 52,
+    width: 204,
   },
   recentWorkouts: {
     flex: 1

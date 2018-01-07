@@ -1,33 +1,28 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react';
 import {
-  View,
-  ScrollView,
-  Text,
-  TouchableOpacity,
-  Image,
-  StyleSheet,
-  Platform
-} from 'react-native'
-import {Actions} from 'react-native-router-flux'
-import TodoItems from '../../../components/TodoItems'
-import WheelCurvedPicker from 'react-native-wheel-picker'
+    Platform,
+    StyleSheet,
+    Text,
+    View,
+} from 'react-native';
 
 class User extends Component {
-  render() {
-    console.log(WheelCurvedPicker)
-    return (
-      <View style={styles.container}>
-        <WheelCurvedPicker/>
-      </View>
-    )
-  }
+
+    render () {
+        return (
+            <View style={styles.container}>
+            </View>
+        );
+    }
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    paddingTop: 20
-  }
-})
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#1962dd',
+    }
+});
 
 export default User

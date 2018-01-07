@@ -48,6 +48,10 @@
         "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_view_alone.xml",
+        "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\FitTest\\react-native-picker\\unspecified\\res\\layout\\picker_view_alone.xml"
+    },
+    {
         "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
@@ -118,6 +122,14 @@
     {
         "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_view.xml",
+        "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\FitTest\\react-native-picker\\unspecified\\res\\layout\\picker_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picker_view_linkage.xml",
+        "source": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\exploded-aar\\FitTest\\react-native-picker\\unspecified\\res\\layout\\picker_view_linkage.xml"
     },
     {
         "merged": "D:\\Documents\\Projects\\FitTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
