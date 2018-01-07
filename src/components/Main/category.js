@@ -24,7 +24,7 @@ const Category = (props) => {
 const styles = StyleSheet.create({
   container: {
     width: (width/2)-16,
-    height: (width/2)-52,
+    height: (width/2)-16,
     margin: 4,
     justifyContent: 'center',
     alignItems:'center'
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     width: (width/2)-16,
-    height: (width/2)-52,
+    height: (width/2)-16,
     backgroundColor:'rgba(0,0,0,0.6)',
     justifyContent: 'center',
     alignItems: 'center',

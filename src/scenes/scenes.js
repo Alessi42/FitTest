@@ -17,11 +17,12 @@ import Workouts from '../routes/Workouts'
 
 const createWorkouts = () => {
   return Routes.childRoutes.map((route) => {
-    return <Scene key={route.path} onBack={() => Actions.pop()} component={route.component} title={route.title} hideNavBar={true} hideTabBar navigationBarStyle={styles.navBarStyle} leftButtonIcon={ChevronLeft} leftButtonIconStyle={{
+    return <Scene key={route.path} component={route.component} title={route.title} hideNavBar={false} navigationBarStyle={styles.navBarStyle} leftButtonIcon={ChevronLeft} leftButtonIconStyle={{
       tintColor: '#eddca9'
     }} titleStyle={styles.navTitleStyle} sceneStyle={styles.sceneStyle}/>
   });
 }
+
 
 const styles = StyleSheet.create({
   container: {
@@ -67,6 +68,12 @@ const scenes = Actions.create(
           hideNavBar
           initial={true}>
         </Scene>
+        <Scene
+          key={Routes.workoutScreenRoute.path}
+          component={Routes.workoutScreenRoute.component}
+          title={Routes.workoutScreenRoute.title}hideNavBar={true} hideTabBar navigationBarStyle={styles.navBarStyle} leftButtonIcon={ChevronLeft} leftButtonIconStyle={{
+      tintColor: '#eddca9'
+    }} titleStyle={styles.navTitleStyle} sceneStyle={styles.sceneStyle}/>
         { createWorkouts() }
       </Scene>
       <Scene
